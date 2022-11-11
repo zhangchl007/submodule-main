@@ -1,0 +1,3 @@
+[submodule "submodule-sub"]
+	path = submodule-sub
+	url = https://github.com/zhangchl007/submodule-sub
